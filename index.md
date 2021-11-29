@@ -8,6 +8,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Testing #
+
+- Ingredient A
+- B
+- C
+
+1. Step 1
+2. Step 2 **This is important**
+3. Step 3
+
+Notes:
+- Don't forget ...
+- Try not to ...
+
 ```markdown
 Syntax highlighted code block
 
